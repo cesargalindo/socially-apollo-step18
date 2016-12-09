@@ -5,7 +5,9 @@
 Here are the steps:
 
 1) Download and launch the "GraphQL server" apollostack/frontpage-server at https://github.com/apollostack/frontpage-server
+
 2) npm install 
+
 3) meteor
 
 
