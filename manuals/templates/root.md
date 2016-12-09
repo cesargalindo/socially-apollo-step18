@@ -1,16 +1,3 @@
-[{]: <region> (header)
-# Socially - A Meteor-Angular 2 Tutorial App integrated with Apollo
-# socially-apollo-step18
-
-Here are the steps:
-
-1) Download and launch the "GraphQL server" apollostack/frontpage-server at https://github.com/apollostack/frontpage-server
-2) npm install 
-3) meteor
-
-
-[}]: #
-[{]: <region> (body)
 [![bitHound Overall Score](https://www.bithound.io/github/Urigo/meteor-angular2.0-socially/badges/score.svg)](https://www.bithound.io/github/Urigo/meteor-angular2.0-socially) [![bitHound Dependencies](https://www.bithound.io/github/Urigo/meteor-angular2.0-socially/badges/dependencies.svg)](https://www.bithound.io/github/Urigo/meteor-angular2.0-socially/master/dependencies/npm)
 
 - [Start the tutorial @ angular-meteor.com](https://www.angular-meteor.com/tutorials/socially/angular2/bootstrapping)
@@ -35,11 +22,3 @@ So if there's a use case you think is missing, please suggest it on the [Github 
 We also welcome pull requests for new chapters and new screencast recordings of existing chapters and would love to work with you on them!
 
 Lets start!
-
-[}]: #
-[{]: <region> (footer)
-[{]: <helper> (nav_step)
-| [Begin Tutorial >](manuals/views/step1.md) |
-|----------------------:|
-[}]: #
-[}]: #
